@@ -1,0 +1,8 @@
+.customInput {
+    border-radius: 0;
+    border-color: #000;
+}
+.customInputError {
+    font-size: 12px;
+    color: red;
+}
